@@ -1,7 +1,7 @@
 # Linux-study
-> 리눅스 공부 기록
+> 리눅스 틈틈이 공부 기록
 
-참고 : 생활코딩 리눅스 강의 + 구글링
+✏️ 참고 : 생활코딩 리눅스 강의 + 구글링
 
 ### [00. 기본 명령어와 옵션 정리](https://github.com/hotpineapple/Linux-study/blob/main/docs/basics.md)
 자주쓰이는 명령어 및 옵션 메모
