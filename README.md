@@ -10,10 +10,10 @@
 가상머신 개념 정리
 
 ### [02. 쉘](https://github.com/hotpineapple/Linux-study/blob/main/docs/shell.md)
-OS 와 쉘, 커널 개념 및 쉘스크립트 비교
+OS 와 쉘, 커널 및 쉘스크립트 개념
 
 ### [03. 프로세스](https://github.com/hotpineapple/Linux-study/blob/main/docs/process.md)
-컴퓨터 구조, 프로세스 실행 원리 정리
+컴퓨터 구조 개요, 프로세스의 실행 관찰과 대응
 
 ### [04. sudo, 권한](https://github.com/hotpineapple/Linux-study/blob/main/docs/sudo.md)
 다중 사용자 개념 정리
